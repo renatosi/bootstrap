@@ -1,0 +1,4 @@
+# Ignorar todos os diretórios e arquivos em um diretório.
+layout/node_modules/**/*
+layout/bower_components/**/*
+layout/.sass-cache/**/*

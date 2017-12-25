@@ -1,0 +1,20 @@
+{
+  "name": "layout",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Renato Oliveira"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/renatosi/bootstrap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
